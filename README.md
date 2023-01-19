@@ -44,3 +44,8 @@ Or in Python, use the ``make`` shortcut function:
     img = qrcode.make('Some data here')
     type(img)  # qrcode.image.pil.PilImage
     img.save("some_file.png")
+    
+## Author
+
+- [LinkedIn](https://www.linkedin.com/in/rishikesh-jagadale-331812207/)
+- [Github](https://github.com/rissh)
